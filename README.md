@@ -12,7 +12,7 @@ Certifié Azure DP-700 | Databricks | Snowflake
 
 ## 👨‍💻 À propos de moi
 
-🎓 Étudiant en **Master 2 Data Engineering**, spécialisé en pipelines data & MLOps  
+🎓 **Data Scientist • Ingénieur en apprentissage automatique • Ingénieur en données**, spécialisé en pipelines data & MLOps  
 ☁️ Expert Cloud : **Azure, AWS, GCP**  
 ⚙️ 3 ans d’expérience en :  
 - Construction de pipelines **ETL/ELT**
