@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="TON_URL_DE_BANNIÈRE" width="100%" alt="Banner"/>
+  <img src="https://github.com/ngassamven/ngassamven/blob/main/baniere.png" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">👋 Bonjour, je suis Venceslas Osee NGASSAM KATE</h1>
