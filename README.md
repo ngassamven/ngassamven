@@ -1,5 +1,4 @@
 <p align="center">
-  <!-- Mets ici le lien de ta bannière quand tu l'auras -->
   <img src="TON_URL_DE_BANNIÈRE" width="100%" alt="Banner"/>
 </p>
 
@@ -22,9 +21,28 @@ Certifié Azure DP-700 | Databricks | Snowflake
 - Déploiement de modèles en production (Azure ML)
 - Mise en place d’architectures Data end-to-end
 
-📍 Basé à Paris, Île-de-France  
+📍 Paris, Île-de-France  
 📬 venceslasngassam@gmail.com  
 🔗 www.linkedin.com/in/venceslas-osee-ngassam-kate-data-engineer  
+
+---
+
+## 💡 Ce que je peux apporter
+
+🌟 **Expertise technique solide & approche orientée business**  
+➡️ Solutions scalables, maintenables et prêtes pour la production  
+➡️ Communication fluide avec les équipes métiers & IT  
+➡️ Livraison rapide, documentation claire & qualité élevée  
+
+---
+
+## 🏆 Réalisations marquantes
+
+📊 **2M+ transactions/jour** traitées dans des pipelines PySpark & Databricks  
+🤖 Déploiement de modèles ML (**LSTM, AutoEncoder**) → **+12% de précision**  
+📈 Développement de **6 applications R Shiny** & **4 dashboards Power BI** adoptés par **40+ managers**  
+⚙️ Automatisation de **1 200 fichiers Excel/mois** : temps réduit **de 8h → 15 min**  
+🎓 Formation de **50+ utilisateurs métiers** → adoption durable des outils data  
 
 ---
 
@@ -35,8 +53,6 @@ Certifié Azure DP-700 | Databricks | Snowflake
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
- 
-  
 </p>
 
 ### 🔹 Big Data & Traitement
@@ -80,29 +96,28 @@ Certifié Azure DP-700 | Databricks | Snowflake
 ## 📌 Expériences récentes
 
 ### 🔹 Data Scientist – Société Générale (2024–2025)
-- Développement d’un pipeline prédictif **Azure ML + Databricks**
+- Pipeline de scoring **Azure ML + Databricks**
 - Analyse des risques de crédit
-- **+15% d’amélioration** sur les scores de prédiction
+- **+15% d’amélioration** sur les prédictions
 
 ### 🔹 Data Scientist – Orange (2021–2022)
-- Traitement temps réel de millions d’événements réseau avec **Spark**
-- Optimisation de jobs Big Data → **-30% de temps de calcul**
-- Dashboards de supervision réseau
+- Pipeline Big Data temps réel (Spark)
+- Optimisation → **–30% de temps de calcul**
+- Dashboards de monitoring réseau
 
 ### 🔹 Data Scientist NLP – Institut National de la Statistique (2022–2023)
-- Analyse démographique massive (10M+ lignes)
+- Analyse démographique à grande échelle (10M+ lignes)
 - Modèles prédictifs Python & R
 - Dashboards pour décideurs publics
 
 ---
 
-## 🚀 Projets Data (à mettre dans tes repos)
-- **Pipeline assurance en temps réel — Snowflake + dbt**  
-- **Plateforme météo live — Azure Databricks + Event Hub**  
-- **Pipeline IoT Santé — GCP (Pub/Sub + Dataflow + BigQuery)**  
-- **Analyse Réseau Télécom — Spark + Hadoop**  
+## 🚀 Projets Data (à mettre dans tes repos GitHub)
 
-👉 Mets ces projets dans ton GitHub et ajoute les liens ici.
+- **Pipeline Assurance** — Snowflake, dbt  
+- **Plateforme météo temps réel** — Azure Databricks, Event Hub  
+- **Pipeline IoT Santé** — Pub/Sub, Dataflow, BigQuery  
+- **Analyse Réseau Télécom** — Spark, Hadoop  
 
 ---
 
